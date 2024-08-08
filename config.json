@@ -39,7 +39,7 @@
   "nickNameBot": "Chiro",
   "authorName": "𝗔𝗽𝗽𝗹𝗲 𝗬𝗽𝗮𝗿𝗿𝗮𝗴𝘂𝗶𝗿𝗿𝗲",
   "authorFB": "https://www.facebook.com/apple.vzvz",
-  "authorEmail": "sikret baka malaman mo",
+  "authorEmail": "",
   "prefix": "/",
   "database": {
     "type": "sqlite",
