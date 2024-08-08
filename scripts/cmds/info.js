@@ -39,15 +39,15 @@ module.exports = {
         unit: fast.UNITS.Mbps
       });
     const result = await speedTest.getSpeed();
-    const botName = global.GoatBot.config.nickNameBot;
-    const botPrefix = global.GoatBot.config.prefix;
-    const authorName = global.GoatBot.config.authorName;
-    const authorFB = global.GoatBot.config.authorFB;
-    const authorInsta = "https://www.instagram.com/xnil867";
-    const authorEmail = global.GoatBot.config.authorEmail;
-    const authorGithub = "https://github.com/X-nil143";
+    const botName = Chiro ;
+    const botPrefix = /
+    const authorName = 𝗔𝗽𝗽𝗹𝗲 𝗬𝗽𝗮𝗿𝗿𝗮𝗴𝘂𝗶𝗿𝗿𝗲
+    const authorFB = https://www.facebook.com/apple.vzvz
+    const authorInsta = _aravzv
+    const authorEmail = 
+    const authorGithub = 
     const status = "𝙎𝙞𝙣𝙜𝙡𝙚";
-    const timeStart = Date.now();
+    const timeStart = 08/08/24
 
     const urls = JSON.parse(fs.readFileSync('scripts/cmds/xnil/info.json'));
     const link = urls[Math.floor(Math.random() * urls.length)];
